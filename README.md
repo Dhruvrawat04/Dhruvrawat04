@@ -88,11 +88,6 @@ I focus on writing clean, efficient code and love transforming ideas into polish
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dhruvrawat04&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Dhruvrawat04&theme=tokyonight" height="165" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruvrawat04&layout=compact&theme=tokyonight" height="170" />
 </div>
 
