@@ -106,17 +106,6 @@ I focus on writing clean, efficient code and love transforming ideas into polish
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Dhruvrawat04&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="Dhruvrawat04 GitHub trophies" />
-  </a>
-</p>
-
-If trophies do not render in preview, open: [github-profile-trophy for Dhruvrawat04](https://github-profile-trophy.vercel.app/?username=Dhruvrawat04)
-
----
 
 ## 🌐 Connect With Me
 
