@@ -18,6 +18,7 @@ I focus on writing clean, efficient code and love transforming ideas into polish
 * 🔥 Developed & deployed **full-scale web apps** with real users
 * 📊 Created ML dashboards using **Prophet, K-Means, Streamlit, Plotly**
 * ☁️ Experienced with **Vercel, Render, Streamlit Cloud & GCP** deployments
+* 🧠 Solved **300+ DSA problems** with **1600+ LeetCode rating**
 * 💡 Currently exploring: **scalable backend systems & system design basics**
 
 ---
@@ -39,7 +40,10 @@ I focus on writing clean, efficient code and love transforming ideas into polish
 <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/Drizzle%20ORM-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black" />
+<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
 </p>
 
@@ -56,48 +60,61 @@ I focus on writing clean, efficient code and love transforming ideas into polish
 <p>
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 <img src="https://img.shields.io/badge/Render-0099FF?style=for-the-badge&logo=render&logoColor=white" />
-<img src="https://img.shields.io/badge/GCP-4081EC?style=for-the-badge&logo=googlecloud&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+
 </p>
 
 ---
 
 ## 🧠 Featured Projects
 
-### 🛒 **Trendify – Secure E‑Commerce Platform**
+### 🏪 **Bizbuddy – Retail Inventory & Billing System**
 
-* 🚀 Improved search time by **45%** using Algolia
-* 🔐 Built custom **AES‑128 encryption** module in C++
-* 📦 Automated seller pipeline → reduced delays by **60%**
-* 🎨 Designed fast, responsive UI boosting session time by **30%**
+* 🔗 Repo: **[github.com/Dhruvrawat04/Bizbuddy](https://github.com/Dhruvrawat04/Bizbuddy)**
+* ⚙️ Built scalable full-stack architecture using **FastAPI + React + PostgreSQL**
+* 🔐 Implemented **RBAC + JWT auth across 3 roles**, reducing unauthorized access by **100%**
+* 🧾 Engineered production POS with **real-time inventory sync**, cutting checkout time by **50%**
+* ⚡ Added **thread-safe TTL caching**, reducing database load by **70%**
+* 🛡 Added JSONB-based **audit logging** for secure activity tracking
 
 ### 💰 **Finance Tracker – Budget & Insights Tool**
 
+* 🔗 Repo: **[github.com/Deep-glitch1/Finance-Tracker](https://github.com/Deep-glitch1/Finance-Tracker)**
+* 🧱 Built with **Next.js, Node.js, Drizzle ORM, Tailwind CSS**
 * 📈 Analytics with Chart.js increased engagement by **35%**
 * ⚡ DB queries optimized by **40%** via Drizzle ORM
 * 🤖 reCAPTCHA eliminated **95% fake signups**
 
 ### 📊 **Supermarket Sales Dashboard – ML Powered**
 
+* 🔗 Repo: **[github.com/Manas-Singh56/supermarket-dashboard](https://github.com/Manas-Singh56/supermarket-dashboard)**
+* 🤖 Built with **Python, scikit-learn, Prophet, Streamlit, Plotly**
 * 🎯 Prophet-based forecasting with **85% accuracy**
 * 📉 Accelerated insights delivery by **40%** using interactive charts
-* 🧪 K-Means clustering for segmentation
+* 🧪 Implemented **K-Means segmentation** and churn prediction pipelines
 
 ---
 
 ## 📊 GitHub Analytics
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dhruvrawat04&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruvrawat04&layout=compact&theme=tokyonight" height="170" />
 </div>
+
 
 ---
 
 ## 🏆 GitHub Trophies
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dhruvrawat04&theme=tokyonight&no-frame=true&margin-w=10" />
-</div>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Dhruvrawat04&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="Dhruvrawat04 GitHub trophies" />
+  </a>
+</p>
+
+If trophies do not render in preview, open: [github-profile-trophy for Dhruvrawat04](https://github-profile-trophy.vercel.app/?username=Dhruvrawat04)
 
 ---
 
@@ -107,6 +124,8 @@ I focus on writing clean, efficient code and love transforming ideas into polish
 <a href="https://www.linkedin.com/in/dhruv-rawat-1516a92b5/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/Dhruvrawat04"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://leetcode.com/u/DhruvRawat_2421/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+<a href="https://www.codechef.com/users/dhruv_rawat418"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /></a>
+<a href="https://www.geeksforgeeks.org/user/dhruvrawabkb3/"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
 </p>
 
 ---
